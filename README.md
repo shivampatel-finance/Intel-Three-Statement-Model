@@ -43,8 +43,8 @@ scenario analysis, not a prediction.]
 
 ## Data sources
 
-- [FY2025 Form 10-K]()
-- [FY2024 Form 10-K](link)
+- [FY2025 Form 10-K](https://www.sec.gov/ix?doc=/Archives/edgar/data/0000050863/000005086326000011/intc-20251227.htm)
+- [FY2024 Form 10-K](https://www.sec.gov/ix?doc=/Archives/edgar/data/0000050863/000005086325000009/intc-20241228.htm)
 
 Page references for every input are in the Notes tab.
 
