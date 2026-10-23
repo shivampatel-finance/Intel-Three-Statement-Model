@@ -31,15 +31,6 @@ pro version.
 - Checks
 - Share Count Notes 
 
-# Key assumptions
-
-[3 to 5 of your most important assumptions, each with a one-line
-reason. For example: revenue growth, capex path, depreciation life.]
-
-## What I found
-
-[Two or three sentences on what the model shows. State it as
-scenario analysis, not a prediction.]
 
 ## Data sources
 
@@ -53,8 +44,3 @@ Page references for every input are in the Notes tab.
 Public filings only; no internal company data,
 simplified in places. 
 
-## How I checked it
-
-[Mention the tie-out checks: subtotals against reported figures,
-the balance sheet balancing, cash flow ending cash against the
-balance sheet.]
